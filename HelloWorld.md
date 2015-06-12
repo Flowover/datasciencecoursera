@@ -1,4 +1,4 @@
 ## This is a markdown file
 
-*First element
-*Second element
+* First element
+* Second element
